@@ -26,7 +26,8 @@
 :root {
     --max-width : 1024px;
     /* color */
-    --primary-color : #15293A;
+    /* --primary-color : #15293A; */
+    --primary-color : #fff0f0;
     --bg : #ecdfce;
     /* --bg : #ecf7ff; */
     --second-color : #D7AB71;
@@ -431,7 +432,7 @@ body {
     font-family: var(--script-font);
 }
 .banner-name {
-    color: #ebc6b8;
+    color: #f14200;
     /* color: var(--second-color); */
     font-family: var(--iCielRomantically-regular);
     font-size: 55px;
@@ -466,7 +467,7 @@ body {
 }
 
 .banner-location {
-    color: var(--text-white);
+    color: #494949;
     width: 300px;
 }
 .banner_location_name {
