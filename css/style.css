@@ -756,7 +756,8 @@ body {
     justify-content: center;
     font-size: 24px;
     font-weight: bold;
-    color: var(--primary-color);
+    /* color: var(--primary-color); */
+    color: #ff0000;
 }
 .invi_date_text, .invi_year_text {
     border-top: 1px solid var(--primary-color);
@@ -844,6 +845,7 @@ body {
     margin-bottom: 0;
     font-weight: bold;
     font-size: 30px;
+    color: hotpink;
 }
 /* ====== END MAIN CSS ============ */
 
